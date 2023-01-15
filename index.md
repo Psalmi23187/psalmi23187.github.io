@@ -1,2 +1,2 @@
 # Dahua Feng
-[My CV here](https://github.com/Psalmi23187/psalmi23187.github.io/CV)
+[My CV here](https://psalmi23187.github.io/CV/CV.pdf)
